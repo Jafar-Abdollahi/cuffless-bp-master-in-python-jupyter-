@@ -7,21 +7,10 @@ Blood pressure (BP) is a direct indicator of hypertension, a dangerous and poten
 <h2> Dataset </h2>
 <img src="https://github.com/Jafar-Abdollahi/cuffless-bp-master-in-python-jupyter-/blob/main/fphys-10-00732-g001.jpg"> 
  
-<h2> Methods </h2>
-<img src=" "> 
-
 
 <h2> GUI </h2>
 <img src="https://github.com/Jafar-Abdollahi/cuffless-bp-master-in-python-jupyter-/blob/main/Photoplethysmogram-features-and-measurement-sites-of-single-source-photoplethysmography_Q320.jpg"> 
 
-
-<h2> Conlusion </h2>
-
-
-
-
-<h2> Paper </h2>
-
 <h2> Contatc me </h2>
-<img src=" "> 
+
          
